@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on TiverTO</title>
+    <link>https://tiverto.ro/tags/</link>
+    <description>Recent content in Tags on TiverTO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>info@TiverTO.ro (TiverTO - Platforma de Freelanceri)</managingEditor>
+    <webMaster>info@TiverTO.ro (TiverTO - Platforma de Freelanceri)</webMaster><atom:link href="https://tiverto.ro/tags/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
