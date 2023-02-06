@@ -13,7 +13,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [Params]
 #  homeTitle = "TiverTO" # Set a different text for the header on the home page
-  subtitle = "platforma de freelanceri"
+  subtitle = "Platforma cu Profesionisti"
   mainSections = ["post","posts"]
   logo = "img/avatar-icon.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
@@ -44,7 +44,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [Author]
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
-  name = "TiverTO - Platforma de Freelanceri"
+  name = "Platforma cu Profesionisti"
   website = "TiverTO.to"
   email = "info@TiverTO.ro"
 
@@ -85,3 +85,6 @@ pygmentsCodefencesGuessSyntax = true
     name = "Tags"
     url = "tags"
     weight = 3
+
+[markup.goldmark.renderer]
+  unsafe = true # Allow HTML in md files

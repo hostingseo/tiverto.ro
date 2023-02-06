@@ -13,3 +13,11 @@ hugo server -D
 ```
 git submodule update --init --recursive --jobs 8
 ```
+
+
+
+### create new post
+
+```
+```
+

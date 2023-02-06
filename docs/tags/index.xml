@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>info@TiverTO.ro (Platforma cu Profesionisti)</managingEditor>
     <webMaster>info@TiverTO.ro (Platforma cu Profesionisti)</webMaster>
-    <lastBuildDate>Mon, 06 Feb 2023 18:38:47 +0200</lastBuildDate><atom:link href="https://tiverto.ro/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Feb 2023 20:09:03 +0200</lastBuildDate><atom:link href="https://tiverto.ro/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog</title>
+      <link>https://tiverto.ro/tags/blog/</link>
+      <pubDate>Mon, 06 Feb 2023 20:09:03 +0200</pubDate>
+      <author>info@TiverTO.ro (Platforma cu Profesionisti)</author>
+      <guid>https://tiverto.ro/tags/blog/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Bucuresti</title>
       <link>https://tiverto.ro/tags/bucuresti/</link>
@@ -23,24 +32,6 @@
       <pubDate>Mon, 06 Feb 2023 18:38:47 +0200</pubDate>
       <author>info@TiverTO.ro (Platforma cu Profesionisti)</author>
       <guid>https://tiverto.ro/tags/dorobanti/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Montaj Camere Supraveghere</title>
-      <link>https://tiverto.ro/tags/montaj-camere-supraveghere/</link>
-      <pubDate>Mon, 06 Feb 2023 18:38:47 +0200</pubDate>
-      <author>info@TiverTO.ro (Platforma cu Profesionisti)</author>
-      <guid>https://tiverto.ro/tags/montaj-camere-supraveghere/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chitila</title>
-      <link>https://tiverto.ro/tags/chitila/</link>
-      <pubDate>Mon, 06 Feb 2023 18:32:54 +0200</pubDate>
-      <author>info@TiverTO.ro (Platforma cu Profesionisti)</author>
-      <guid>https://tiverto.ro/tags/chitila/</guid>
       <description></description>
     </item>
     
@@ -96,6 +87,26 @@
       <author>info@TiverTO.ro (Platforma cu Profesionisti)</author>
       <guid>https://tiverto.ro/tags/focsani/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Montaj Camere Supraveghere</title>
+      <link>https://tiverto.ro/tags/montaj-camere-supraveghere/</link>
+      <pubDate>Tue, 23 Feb 2021 10:10:49 -0800</pubDate>
+      <author>info@TiverTO.ro (Platforma cu Profesionisti)</author>
+      <guid>https://tiverto.ro/tags/montaj-camere-supraveghere/</guid>
+      <description>Example description 2.</description>
+    </item>
+    
+    <item>
+      <title>Montaj Camere Supraveghere Chitila</title>
+      <link>https://tiverto.ro/tags/montaj-camere-supraveghere-chitila/</link>
+      <pubDate>Tue, 23 Feb 2021 10:10:49 -0800</pubDate>
+      <author>info@TiverTO.ro (Platforma cu Profesionisti)</author>
+      <guid>https://tiverto.ro/tags/montaj-camere-supraveghere-chitila/</guid>
+      <description>Descopera solutia ideala pentru siguranta ta cu serviciul de montaj camere de supraveghere de la Localservices.
+Indiferent daca este vorba de afacerea ta sau de locuinta ta din Chitila, Bucuresti, profesionistii nostri sunt gata sa iti ofere servicii de calitate, la un pret accesibil.
+Descarca acum aplicatia Localservices pentru a gasi montatorul potrivit pentru tine si pentru a-ti asigura un sistem de supraveghere performant!</description>
     </item>
     
   </channel>
