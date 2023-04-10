@@ -13,3 +13,40 @@ Cu ajutorul aplicatiei mobile Localservices, poti posta o cerere pentru montajul
 Toate profesionistii din Localservices sunt verificati manual, astfel incat sa poti fi sigur ca ai gasit un montator de incredere. De asemenea, profesionistii platesc un comision pentru fiecare oferta trimisa, ceea ce inseamna ca vor fi motivati sa iti trimita oferte serioase si corecte.
 
 Nu mai pierde timp si energie cautand pe internet, descarca [LocalServices](https://localservices.app) si publica o cerere pentru montajul camerelor de supraveghere chiar acum. Vei primi o lista de oferte rapida si vei putea incepe ziua cu un sistem de supraveghere sigur si functional.
+
+
+
+## Întrebări frecvente
+
+<ul class="list-faq" itemscope itemtype="https://schema.org/FAQPage">
+
+<li itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+
+### Ar trebui să instalez singur sistemul de securitate sau să angajez un profesionist?
+
+<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+Angajarea unui profesionist vă va garanta utilizarea corectă a sistemului de securitate și, prin urmare, siguranța locuinței dumneavoastră.
+</div>
+</li>
+
+<li itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+
+### Ar trebui să optez pentru dispozitive inteligente de securitate pentru casă?
+
+<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+
+Dacă locuința dvs. este adesea goală în timpul zilei (pentru că toată lumea este plecată la serviciu, de exemplu) sau dacă dvs. și familia dvs. plecați adesea în vacanțe prelungite, un sistem inteligent de securitate pentru locuință ar putea fi opțiunea potrivită pentru dvs.
+</div>
+</li>
+
+<li itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+
+### Cum îmi pot proteja cel mai bine casa?
+
+<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+S-ar putea să luați în considerare următoarele sisteme de securitate pentru monitorizarea locuinței dvs.: sisteme de camere CCTV cu fir sau fără fir, camere inteligente de interior sau de exterior, alarme inteligente, detectoare de fum inteligente, senzori inteligenți de deschidere a ferestrelor și ușilor și sonerii video inteligente.
+</div>
+</li>
+
+</ul>
+
